@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danielo\\source\\repos\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {}
+    "C:\\develop\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danielo\\source\\repos\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+    "C:\\develop\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danielo\\source\\repos\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "projectUniqueName": "C:\\develop\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
         "projectName": "SocialMedia.Core",
-        "projectPath": "C:\\Users\\danielo\\source\\repos\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
-        "packagesPath": "C:\\Users\\danielo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danielo\\source\\repos\\SocialMedia\\SocialMedia.Core\\obj\\",
+        "projectPath": "C:\\develop\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "C:\\develop\\SocialMedia\\SocialMedia.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\danielo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://srvnagtfs01:8082/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,24 +55,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\danielo\\source\\repos\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
+    "C:\\develop\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danielo\\source\\repos\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+        "projectUniqueName": "C:\\develop\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
         "projectName": "SocialMedia.Infrastructure",
-        "projectPath": "C:\\Users\\danielo\\source\\repos\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\danielo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danielo\\source\\repos\\SocialMedia\\SocialMedia.Infrastructure\\obj\\",
+        "projectPath": "C:\\develop\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "C:\\develop\\SocialMedia\\SocialMedia.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\danielo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,14 +80,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://srvnagtfs01:8082/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\danielo\\source\\repos\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-                "projectPath": "C:\\Users\\danielo\\source\\repos\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
+              "C:\\develop\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+                "projectPath": "C:\\develop\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
               }
             }
           }
@@ -128,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
